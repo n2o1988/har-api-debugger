@@ -3,11 +3,13 @@ An electron boilerplate project using PouchDB as storage engine and Material Des
 
 It comes in two flavors:
 
-* AngularJS using the Angular-Material library
+* AngularJS using the Angular-Material library (**usable**)  
+
 ![](https://github.com/appelgriebsch/electron-boilerplate/blob/master/angularJS.png)
 
 
-* ReactJS using the Material-UI library
+* ReactJS using the Material-UI library (**ongoing**)  
+
 ![](https://github.com/appelgriebsch/electron-boilerplate/blob/master/reactJS.png)
 
 ## Getting started
