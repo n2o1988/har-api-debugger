@@ -1,18 +1,17 @@
 # electron-boilerplate
-An electron boilerplate project incl. PouchDB, AngularJS + Material Design
+An electron boilerplate project using PouchDB as storage engine and Material Design for the UI.
 
-## Included modules
-* Electron
-* Angular
-* Angular Material Design
-* Angular UI Router
-* Node-Notifier
-* PouchDB + Plugins (geo-spatial, MongoDB-style query language and full-text search engine support)
-* WS
+It comes in two flavors:
+
+![](https://github.com/appelgriebsch/electron-boilerplate/blob/master/angularJS.png)
+AngularJS using the Angular-Material library
+
+![](https://github.com/appelgriebsch/electron-boilerplate/blob/master/reactJS.png)
+ReactJS using the Material-UI library
 
 ## Getting started
 * install latest node.js from [here](http://www.nodejs.org)
-* clone git repository (```git clone https://github.com/appelgriebsch/electron-boilerplate.git```)
+* clone git repository, choose the branch of interest (angularjs/reactjs) (```git clone -b <branch> https://github.com/appelgriebsch/electron-boilerplate.git```)
 * open terminal and run ```npm install``` to install dependencies
 * start application in debug by executing ```npm start``` in terminal
 
