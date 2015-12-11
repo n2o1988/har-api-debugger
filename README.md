@@ -18,10 +18,6 @@ It comes in two flavors:
 * open terminal and run ```npm install``` to install dependencies
 * start application in debug by executing ```npm start``` in terminal
 
-## Screenshot
-
-![screenshot](https://github.com/appelgriebsch/electron-boilerplate/blob/master/screenshot.png)
-
 ## Build Distributable Packages
 
 **PLEASE NOTE: you will need a virtual machine with the actual operating system and development tools installed to build the native packages for it**
