@@ -5,12 +5,12 @@ It comes in two flavors:
 
 * AngularJS using the Angular-Material library (**usable**)  
 
-![](https://github.com/appelgriebsch/electron-boilerplate/blob/master/angularJS.png)
+![](angularJS.png)
 
 
 * ReactJS using the Material-UI library (**ongoing**)  
 
-![](https://github.com/appelgriebsch/electron-boilerplate/blob/master/reactJS.png)
+![](reactJS.png)
 
 ## Getting started
 * install node.js (at least Node 4.4.x+ and NPM 2.14.x+ required) from [here](http://www.nodejs.org)
